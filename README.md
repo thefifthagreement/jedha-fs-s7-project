@@ -6,4 +6,4 @@
 
 ## Real or not ?
 
-Using this kaggle [dataset](https://www.kaggle.com/c/nlp-getting-started) containing disaster related tweets, decide wether or not those tweets are real or fake.
+Using this kaggle [dataset](https://www.kaggle.com/c/nlp-getting-started) containing disaster related tweets, decide whether or not those disasters are real.
